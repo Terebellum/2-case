@@ -17,7 +17,7 @@ if __name__ == "__main__":
     elif d == 2:
         print("Tuesday")
     elif d == 3:
-        print("Wensday")
+        print("Wednesday")
     elif d == 4:
         print("Thursday")
     elif d == 5:
