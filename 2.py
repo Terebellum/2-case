@@ -5,7 +5,7 @@ if __name__ == "__main__":
     
     if n > 5 and n < 14:
         print(n)
-    elif n == 17:
+    elif n == 14:
         print(17)
     else:
         print("нет")
